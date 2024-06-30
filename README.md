@@ -1,4 +1,4 @@
-# gh-dash
+no# gh-dash
 
 ✨ A GitHub (`gh`) CLI extension to display a dashboard with **pull requests** and **issues** by filters you care about.
 
