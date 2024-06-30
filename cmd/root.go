@@ -5,7 +5,6 @@ package cmd
 
 import (
 	"fmt"
-	slog "log"
 	"os"
 	"runtime"
 	"runtime/debug"
